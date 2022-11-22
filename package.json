@@ -1,0 +1,25 @@
+{
+  "name": "flutter-classes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ios:run": "npx wdio run wdio.ios.conf.js",
+    "apk:run": "npx wdio run wdio.android.conf.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/appium-service": "^7.26.0",
+    "@wdio/cli": "^7.26.0",
+    "@wdio/local-runner": "^7.26.0",
+    "@wdio/mocha-framework": "^7.26.0",
+    "@wdio/spec-reporter": "^7.26.0",
+    "appium": "^2.0.0-beta.46",
+    "appium-flutter-driver": "^1.9.1",
+    "appium-flutter-finder": "^0.1.0",
+    "assert": "^2.0.0"
+  }
+}

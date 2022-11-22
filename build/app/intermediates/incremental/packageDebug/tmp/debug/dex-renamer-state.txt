@@ -1,0 +1,4 @@
+#Fri Nov 18 09:10:09 GMT 2022
+base.0=/Users/sanguine/Tutorial/flutter/demo/store_ui/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
