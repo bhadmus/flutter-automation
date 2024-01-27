@@ -1,2 +1,6 @@
 node_modules/
 .vscode/
+allure-report/
+allure-result/
+.idea/
+.DS_Store
